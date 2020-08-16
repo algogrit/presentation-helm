@@ -6,7 +6,7 @@ layout: true
 
 class: center, middle
 
-# Helm
+![Logo](assets/images/helm.png)
 
 Gaurav Agarwal
 
