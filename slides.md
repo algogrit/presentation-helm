@@ -216,7 +216,7 @@ class: center, middle
 ---
 class: center, middle
 
-#### Demo: Creating a chart from scratch
+#### Demo: Creating a chart from scratch (Optional)
 
 ---
 
